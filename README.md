@@ -38,14 +38,6 @@ npx live-server
 
 ---
 
-## 💡 Próximos pasos
-
-- Agregar más carpetas con distintos ejercicios (`motion/`, `shapes/`, `sound/`, etc.).
-- Probar interactividad con el mouse, animaciones y ruido de Perlin.
-- Integrar p5.sound y p5.dom en algunos experimentos.
-
----
-
 ## 🧰 Requisitos
 
 - [Node.js](https://nodejs.org/)
