@@ -29,7 +29,7 @@ Podés correr los sketches en local con **Live Server** o **Vite**.
 2. Instalá la extensión “Live Server” (si no la tenés).
 3. Clic derecho en `index.html` → **Open with Live Server**.
 
-El navegador se abrirá automáticamente y recargará cada vez que guardes..
+El navegador se abrirá automáticamente y recargará cada vez que guardes.
 
 ### 👉 Opción 2: con el comando (sin extensión)
 ```bash
